@@ -1,8 +1,8 @@
 ## Hi, I'm Badgerbees
-
+Student at Pradita University
 
 ## OSS I Contribute To
-- https://github.com/NousResearch/hermes-agent: A self-improving AI agent
+- [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
 <!--
 **badgerbees/badgerbees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
