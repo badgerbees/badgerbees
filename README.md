@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Badgerbees
 
+
+## OSS I Contribute To
+- https://github.com/NousResearch/hermes-agent: A self-improving AI agent
 <!--
 **badgerbees/badgerbees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
