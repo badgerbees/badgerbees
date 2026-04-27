@@ -1,8 +1,12 @@
-## Hi, I'm Badgerbees
-Student at Pradita University
+## Hi, I'm badgerbees
+I'm an University Student and I really like working on AI
 
 ## OSS I Contribute To
 - [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
+- [picoclaw](https://github.com/sipeed/picoclaw): Ultra-lightweight personal AI assistant
+- [goclaw](https://github.com/nextlevelbuilder/goclaw): Multi-Tenant AI Agent Platform
+
+feel free to reach me out at rapabelias @ gmail.com
 <!--
 **badgerbees/badgerbees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
