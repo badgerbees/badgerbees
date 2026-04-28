@@ -1,5 +1,5 @@
 ## Hi, I'm badgerbees
-I'm an University Student and I really like working on AI
+I'm an University Student and I like AI
 
 ## OSS I Contribute To
 - [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
