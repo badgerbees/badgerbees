@@ -1,4 +1,4 @@
-## Hi, I'm badgerbees
+## Hi, I'm Vyrgi Rapabel
 I'm an University Student and I like AI
 
 ## OSS I Contribute To
