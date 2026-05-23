@@ -1,12 +1,11 @@
 ## Hi, I'm Vyrgi Rapabel
-I'm an University Student and I like AI
+I really like AI
 
 ## OSS I Contribute To
 - [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
-- [picoclaw](https://github.com/sipeed/picoclaw): Ultra-lightweight personal AI assistant
+- [picoclaw](https://github.com/sipeed/picoclaw): Ultra-lightweight AI Agent
 - [goclaw](https://github.com/nextlevelbuilder/goclaw): Multi-Tenant AI Agent Platform
 
-feel free to reach me out at rapabelias @ gmail.com
 <!--
 **badgerbees/badgerbees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
