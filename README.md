@@ -1,7 +1,7 @@
 ## Hi, I'm Badger
 I like things
 
-## OSS I Contribute To
+## OSS I've Contributed To
 - [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
 - [picoclaw](https://github.com/sipeed/picoclaw): Ultra-lightweight AI Agent
 - [goclaw](https://github.com/nextlevelbuilder/goclaw): Multi-Tenant AI Agent Platform
