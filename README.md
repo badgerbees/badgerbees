@@ -1,5 +1,5 @@
-## Hi, I'm Vyrgi Rapabel
-I really like AI
+## Hi, I'm Badger
+I like things
 
 ## OSS I Contribute To
 - [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
