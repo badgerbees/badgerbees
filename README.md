@@ -6,6 +6,7 @@ I like things
 
 ## OSS I've Contributed To
 - [hermes-agent](https://github.com/NousResearch/hermes-agent): A self-improving AI agent 
+- [odysseus](https://github.com/pewdiepie-archdaemon/odysseus): Self-hosted AI workspace.
 - [picoclaw](https://github.com/sipeed/picoclaw): Ultra-lightweight AI Agent
 - [goclaw](https://github.com/nextlevelbuilder/goclaw): Multi-Tenant AI Agent Platform
 
