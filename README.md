@@ -3,6 +3,7 @@ I like things
 
 ## Projects I've Built
 - [ChunkGate](https://github.com/badgerbees/ChunkGate): Self-hosted S3-compatible deduplication proxy
+- [acoustic-uav-detection](https://github.com/badgerbees/acoustic-uav-detection): Edge-AI acoustic classification and tracking system for UAVs
 
 ## OSS I've Contributed To
 - [openclaw](https://github.com/openclaw/openclaw): AI Agent
