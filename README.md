@@ -13,3 +13,4 @@ I like things
 - [picoclaw](https://github.com/sipeed/picoclaw): Ultra-lightweight AI Agent
 - [goclaw](https://github.com/nextlevelbuilder/goclaw): Multi-Tenant AI Agent Platform
 
+contact at rapabelias@gmail.com
