@@ -1,14 +1,8 @@
 ## Hi, I'm Badger
-I like building and contributing to open-source software.
+i like to code.
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=badgerbees&show_icons=true&theme=dark" alt="Badger's GitHub Stats" height="150" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badgerbees&layout=compact&theme=dark" alt="Top Languages" height="150" />
-  </a>
-</p>
+[![Badger's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badgerbees&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badgerbees&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects I've Built
 - [ChunkGate](https://github.com/badgerbees/ChunkGate) - Self-hosted S3-compatible deduplication proxy
