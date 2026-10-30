@@ -1,8 +1,7 @@
 ## Hi, I'm Badger
 i like to code.
 
-[![Badger's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=badgerbees&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=badgerbees&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=badgerbees&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Projects I've Built
 - [ChunkGate](https://github.com/badgerbees/ChunkGate) - Self-hosted S3-compatible deduplication proxy
